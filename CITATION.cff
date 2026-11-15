@@ -1,0 +1,60 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite the paper below."
+title: "DOV-VeRi sample: six vehicles from the Dual Opposite Views Vehicle Re-ID dataset"
+type: dataset
+version: "0.1.0"
+date-released: "2026-11-14"
+license: CC-BY-4.0
+authors:
+  - family-names: Wei
+    given-names: Chuheng
+    orcid: "https://orcid.org/0000-0002-0747-9398"
+    affiliation: "University of California, Riverside"
+  - family-names: Qin
+    given-names: Ziye
+    orcid: "https://orcid.org/0000-0001-5785-5331"
+    affiliation: "University of California, Riverside; Tsinghua University"
+  - family-names: Liu
+    given-names: Yongkang
+    affiliation: "Toyota Motor North America, InfoTech Laboratories"
+  - family-names: Sisbot
+    given-names: Emrah Akin
+    affiliation: "Toyota Motor North America, InfoTech Laboratories"
+  - family-names: Oguchi
+    given-names: Kentaro
+    orcid: "https://orcid.org/0000-0001-9724-6434"
+    affiliation: "Toyota Motor North America, InfoTech Laboratories"
+  - family-names: Wu
+    given-names: Guoyuan
+    orcid: "https://orcid.org/0000-0001-6707-6366"
+    affiliation: "University of California, Riverside"
+  - family-names: Barth
+    given-names: Matthew J.
+    orcid: "https://orcid.org/0000-0002-4735-5859"
+    affiliation: "University of California, Riverside"
+keywords:
+  - vehicle re-identification
+  - dataset
+  - intelligent transportation systems
+  - opposing camera views
+preferred-citation:
+  type: article
+  title: "DOV-VeRi: A Real-World Vehicle Re-identification Dataset and Benchmark for Cross-View Scenarios with Opposing Camera Perspectives"
+  journal: "IEEE Transactions on Intelligent Transportation Systems"
+  year: 2026
+  notes: "Manuscript T-ITS-26-02-0747, under review."
+  authors:
+    - family-names: Wei
+      given-names: Chuheng
+    - family-names: Qin
+      given-names: Ziye
+    - family-names: Liu
+      given-names: Yongkang
+    - family-names: Sisbot
+      given-names: Emrah Akin
+    - family-names: Oguchi
+      given-names: Kentaro
+    - family-names: Wu
+      given-names: Guoyuan
+    - family-names: Barth
+      given-names: Matthew J.
